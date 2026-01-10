@@ -12,7 +12,5 @@ public class Main {
         sll.deleteNode("Bansode");
         sll.printList();
 
-       //Doubly Linked List
-
     }
 }
