@@ -1,31 +1,35 @@
+
 # data-structure-implementations-java
 
 This repository contains **Java implementations of core data structures**
-written from scratch to understand their internal working without using
-the Java Collections Framework.
+built from scratch to understand their internal working, memory handling,
+and pointer manipulation — without using the Java Collections Framework.
 
 Each data structure is implemented as a **separate Maven module**
-with clean package structure and testability in mind.
+with clean package separation.
 
 ---
 
-## 📂 Current Implementations
+## 📂 Implemented Data Structures
 
-- **Linked List**
-    - Singly Linked List
-    - Basic operations: insert, delete, traversal
+- **Singly Linked List**
+  - Insert at beginning and end
+  - Delete by value
+  - Traversal
 
-> More data structures will be added incrementally.
+- **Doubly Linked List**
+  - Insert at front and back
+  - Delete from front and back
+  - Forward traversal using head and tail pointers
 
 ---
 
 ## 🧱 Repository Structure
-
 data-structure-implementations-java/
 
 │
 
-├── linked-list/ 
+├── singly-linked-list/
 
 │ ├── src/
 
@@ -35,15 +39,28 @@ data-structure-implementations-java/
 
 │
 
-└── README.md
+├── doubly-linked-list/
+
+│ ├── src/
+
+│ ├── pom.xml
+
+│ └── README.md
+
+│
+
+├── README.md
+
+└── .gitignore
 
 
 ---
 
-## 🧠 Purpose
+## 🧠 Purpose of This Repository
 
 - Strengthen fundamentals of data structures
 - Practice clean Java design and packaging
+- Understand pointer-based data structures
 - Build an interview-ready reference repository
 
 ---
@@ -56,7 +73,16 @@ data-structure-implementations-java/
 - Graphs
 - Hashing
 
-Each will be added as a **separate module**.
+Each data structure will be added as a **separate module**.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Java
+- Maven
+- IntelliJ IDEA
+- Git & GitHub
 
 ---
 
@@ -64,3 +90,4 @@ Each will be added as a **separate module**.
 
 Rahul Bansode  
 Java | Backend Development | Data Structures
+
