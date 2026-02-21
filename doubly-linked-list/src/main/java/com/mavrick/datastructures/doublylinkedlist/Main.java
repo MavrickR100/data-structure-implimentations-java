@@ -9,8 +9,8 @@ public class Main {
         dll.popFront();
         dll.pushBack("bansode");
         dll.popBack();
-        dll.pushFront("Rahul");
         dll.pushBack("Rajendra");
+        dll.pushFront("Rahul");
         dll.pushBack("Bansode");
         dll.printDoublyLinkedList();
     }

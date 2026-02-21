@@ -1,4 +1,4 @@
-package com.mavrick.datastructures.linkedlist;
+package com.mavrick.datastructures.singlylinkedlist;
 
 public class Node {
     String data;
