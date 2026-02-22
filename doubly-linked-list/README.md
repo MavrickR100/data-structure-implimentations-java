@@ -35,14 +35,12 @@ This allows efficient insertion and deletion from **both ends**.
 
 ## 🗂 Package Structure
 
+```
 com.mavrick.datastructures.doublylinkedlist
-
 ├── Node.java
-
 ├── DoublyLinkedList.java
-
 └── Main.java
-
+```
 
 ---
 

@@ -37,14 +37,12 @@ This ensures the list remains circular.
 
 ## 🗂 Package Structure
 
+```
 com.mavrick.datastructures.circularlinkedlist
-
 ├── Node.java
-
 ├── CircularLinkedList.java
-
 └── Main.java
-
+```
 ---
 
 ## ▶️ How It Works

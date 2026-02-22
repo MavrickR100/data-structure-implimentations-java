@@ -41,12 +41,11 @@ Each pop operation:
 
 ## 🗂 Package Structure
 
+```
 com.mavrick.datastructures.stack
-
 ├── Stack.java
-
 └── Main.java
-
+```
 ---
 
 

@@ -26,14 +26,12 @@ The goal of this implementation is to understand **core data structure concepts*
 
 ## 🗂 Package Structure
 
+```
 com.mavrick.datastructures.singlylinkedlist
-
 ├── Node.java
-
 ├── SinglyLinkedList.java
-
 └── Main.java
-
+```
 
 ---
 
