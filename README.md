@@ -16,6 +16,7 @@ with clean package separation.
 - Circular Linked List
 - Stack (ArrayList-based)
 - Min Stack (O(1) minimum retrieval)
+- Queue (Linked List-based)
 
 ---
 
@@ -32,7 +33,6 @@ with clean package separation.
 
 ## 🔜 Planned Additions
 
-- Queue
 - Trees
 - Graphs
 - Hashing
