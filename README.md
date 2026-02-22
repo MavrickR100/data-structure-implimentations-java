@@ -15,6 +15,7 @@ with clean package separation.
 - Doubly Linked List
 - Circular Linked List
 - Stack (ArrayList-based)
+- Min Stack (O(1) minimum retrieval)
 
 ---
 
