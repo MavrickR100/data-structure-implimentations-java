@@ -41,7 +41,7 @@ Each pop operation:
 
 ## 🗂 Package Structure
 
-com.mavrick.datastructures.circularlinkedlist
+com.mavrick.datastructures.stack
 
 ├── Stack.java
 
