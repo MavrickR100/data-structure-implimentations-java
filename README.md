@@ -11,50 +11,14 @@ with clean package separation.
 ---
 
 ## 📂 Implemented Data Structures
-
-- **Singly Linked List**
-  - Insert at beginning and end
-  - Delete by value
-  - Traversal
-
-- **Doubly Linked List**
-  - Insert at front and back
-  - Delete from front and back
-  - Forward traversal using head and tail pointers
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Stack (ArrayList-based)
 
 ---
 
-## 🧱 Repository Structure
-data-structure-implementations-java/
 
-│
-
-├── singly-linked-list/
-
-│ ├── src/
-
-│ ├── pom.xml
-
-│ └── README.md
-
-│
-
-├── doubly-linked-list/
-
-│ ├── src/
-
-│ ├── pom.xml
-
-│ └── README.md
-
-│
-
-├── README.md
-
-└── .gitignore
-
-
----
 
 ## 🧠 Purpose of This Repository
 
@@ -67,7 +31,6 @@ data-structure-implementations-java/
 
 ## 🔜 Planned Additions
 
-- Stack
 - Queue
 - Trees
 - Graphs
